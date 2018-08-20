@@ -3,7 +3,7 @@ class Goji < Formula
 
   desc "Command line JIRA client"
   homepage "https://github.com/kylef/goji"
-  url "https://github.com/kylef/goji/commit/ecbea5229ce0324ff2e359c68078e5c36d31a166.zip"
+  url "https://github.com/kylef/goji/archive/ecbea5229ce0324ff2e359c68078e5c36d31a166.zip"
   sha256 "d6a7bf337cd480b5f3626204e9dd9002705f9abdbaae180028adb2db6c6b3c0c"
 
   depends_on "python3"
